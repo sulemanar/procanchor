@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/1751966323.png" alt="Procanchor Banner" width="500"/>
+</p>
+
 # ProcAnchor
 
 **ProcAnchor** is a lightweight and powerful process supervision tool for Linux. It ensures that your application remains running by automatically restarting it after crashes, executable upgrades, or system reboots. A key feature of `ProcAnchor` is its ability to preserve the same Process ID (PID) for the supervisor process, providing stability for system integrations and management scripts.
